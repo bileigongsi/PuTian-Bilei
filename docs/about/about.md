@@ -8,7 +8,7 @@ aside: false
 
 # 莆田公司黑榜
 
-> 来源：  [莆田避雷公司详解——莆田防踩雷](https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2)
+> 来源： [莆田避雷公司详解——莆田防踩雷](https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2)
 
 |公司名称|详细地址|具体情况（踩坑原因等，欢迎补充！）|来源|备注|
 |---|---|---|---|---|
