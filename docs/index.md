@@ -5,7 +5,7 @@ aside: false
 
 ---
 
-# 莆田避雷公司详解
+# 莆田公司避雷详解
 
 [[toc]]
 
@@ -14,7 +14,7 @@ aside: false
 不过该网址： https://bileigongsi.github.io  将积极更新。
 :::
 
-##### 莆田找工作防踩雷
+## 莆田找工作防踩雷
 莆田工作<mark class="hltr-red">雷区</mark>！！<br>
 姐妹们给我开飞机跑跑跑跑！！<br>
 这些都是收集来的,还有本人<mark class="hltr-red">踩过雷</mark>的！！！！！
@@ -47,50 +47,37 @@ aside: false
 
 ---
 
-##### 公积金是强制缴纳的，公司不给缴又该怎么办？
-<iframe src="//player.bilibili.com/player.html?aid=267661270&bvid=BV13Y411r7Na&cid=1030865751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 [公积金是强制缴纳的，公司不给缴又该怎么办？](https://www.bilibili.com/video/BV13Y411r7Na/?spm_id_from=333.999.0.0&vd_source=3ee16de0664c8b3342c6d19b8f532e05)
+<iframe src="//player.bilibili.com/player.html?aid=267661270&bvid=BV13Y411r7Na&cid=1030865751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
 
-##### 劳动仲裁基本流程+所需材料明细
+[申请劳动仲裁 需要提交哪些材料？](http://b23.tv/R9KFKRJ)
 <iframe src="//player.bilibili.com/player.html?aid=700531719&bvid=BV1bm4y1J7Xz&cid=1187108199&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[申请劳动仲裁 需要提交哪些材料？](http://b23.tv/R9KFKRJ)
 <br>还有公司营业执照复印件：<br>国家企业信息信用信息系统中下载
 
 ---
 
-##### 公司要走仲裁调解？打工人不要掉坑里！
+[公司要走仲裁调解？打工人不要掉坑里！](http://b23.tv/NhbXmWS)
 <iframe src="//player.bilibili.com/player.html?aid=618459884&bvid=BV1Xh4y1w7wT&cid=1264729292&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[公司要走仲裁调解？打工人不要掉坑里！](http://b23.tv/NhbXmWS)
-
 ---
 
-##### 试用期辞退？90%是违法的！
+[试用期辞退？90%是违法的！](https://www.bilibili.com/video/BV1Yp4y1E7t8/?spm_id_from=333.999.0.0)
 <iframe src="//player.bilibili.com/player.html?aid=957761680&bvid=BV1Yp4y1E7t8&cid=1250333779&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[公司要走仲裁调解？打工人不要掉坑里！](https://www.bilibili.com/video/BV1Yp4y1E7t8/?spm_id_from=333.999.0.0)
-
 ---
-
-##### 被公司白嫖试用期，你就走了，别这么傻！
-<iframe src="//player.bilibili.com/player.html?aid=362097995&bvid=BV1N94y1k7HE&cid=1229371487&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 [被公司白嫖试用期，你就走了，别这么傻！](https://www.bilibili.com/video/BV1N94y1k7HE/?spm_id_from=333.999.0.0)
+<iframe src="//player.bilibili.com/player.html?aid=362097995&bvid=BV1N94y1k7HE&cid=1229371487&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
-
-##### 白嫖试用期？这是病，得治！
-<iframe src="//player.bilibili.com/player.html?aid=533664683&bvid=BV1Pu411w7iE&cid=1272053892&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 [公司白嫖试用期？这是公司有病，得治！](https://www.bilibili.com/video/BV1Pu411w7iE/?spm_id_from=333.999.0.0)
+<iframe src="//player.bilibili.com/player.html?aid=533664683&bvid=BV1Pu411w7iE&cid=1272053892&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
 
-##### 被迫离职通知书要这么写，不然经济补偿就飞了！
-<iframe src="//player.bilibili.com/player.html?aid=874910082&bvid=BV1rN4y1C7wN&cid=1305430901&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 [被迫离职通知书要这么写，不然经济补偿就飞了！](https://www.bilibili.com/video/BV1rN4y1C7wN/?spm_id_from=333.999.0.0)
+<iframe src="//player.bilibili.com/player.html?aid=874910082&bvid=BV1rN4y1C7wN&cid=1305430901&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
