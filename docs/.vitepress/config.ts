@@ -59,9 +59,9 @@ const config = defineConfig({
 		returnToTopLabel: '回到顶部',
 		externalLinkIcon: true,
 		// aside: false,
-		outlineTitle: '此页的章节',
+		outlineTitle: '本页的章节',
 		// 显示层级
-		outline: { level: 'deep', label: '当前页' },
+		outline: { level: 'deep', label: '本页的章节' },
 		// lastUpdatedText: '最近更新时间',
 		siteTitle: '找工作防踩雷',
 		// siteTitle: false, // 不显示标题
@@ -113,8 +113,8 @@ const config = defineConfig({
 	},
 
 	footer: {
-			message: '由 Apache 许可证 2.0 发布。',
-			copyright: '版权所有 © 2023-2024 找工作防踩雷社区',
+			message: '由 Apache 许可证 2.0 发布',
+			copyright: '2023-2024 找工作防踩雷社区',
 	},
 	
 	search: {
