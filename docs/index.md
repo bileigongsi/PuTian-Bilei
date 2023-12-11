@@ -15,9 +15,9 @@ aside: false
 :::
 
 ## 莆田找工作防踩雷
-莆田工作<mark class="hltr-red">雷区</mark>！！<br>
+莆田工作<span style="background:rgba(160, 204, 246, 0.55)">雷区</mark>！！<br>
 姐妹们给我开飞机跑跑跑跑！！<br>
-这些都是收集来的,还有本人<mark class="hltr-red">踩过雷</mark>的！！！！！
+这些都是收集来的,还有本人<span style="background:rgba(160, 204, 246, 0.55)">踩过雷</mark>的！！！！！
 
 |常见提问|互助答复|
 |---|---|
