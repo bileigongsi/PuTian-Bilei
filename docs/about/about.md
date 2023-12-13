@@ -8,9 +8,9 @@ aside: false
 
 # 莆田公司黑榜
 
-> 来源： [莆田避雷公司详解——莆田防踩雷](https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2)
+> 来源：  [莆田避雷公司详解——莆田防踩雷](https://docs.qq.com/sheet/DT0dWcFdRcnJXdG92?tab=BB08J2)
 
-|公司名称|详细地址|具体情况（踩坑原因等，欢迎补充！）|来源|备注|
+|公司名称 <img width=220/> |详细地址 <img width=200/> |具体情况（踩坑原因） <img width=320/>|来源 <img width=120/>| 备注 <img width=170/> |
 |---|---|---|---|---|
 |卓英教育集团|[卓英教育文化城](https://docs.qq.com/scenario/map.html?source=tencentmap&uid=13779162183088535667&latitude=25.429968&longitude=118.997329&name=%E5%8D%93%E8%8B%B1%E6%95%99%E8%82%B2%E6%96%87%E5%8C%96%E5%9F%8E)|桌上明晃晃摆着一大堆被骗过去给人事刷KPI的登记表，hr还问我从事过的行业怎样怎样的。刨根问底，一个劲地问老东家公司内部情况，就是借招聘幌子，打听其他公司、行业内部信息。|BOSS直聘,亲身经历|马甲：培英高级中学，同样是刷KPI的，别去|
 |莆田鑫天慧电子商务有限公司|[滨溪佳园-7号楼](https://docs.qq.com/scenario/map.html?source=tencentmap&uid=11222797507751212871&latitude=25.459801&longitude=119.015212&name=%E6%BB%A8%E6%BA%AA%E4%BD%B3%E5%9B%AD-7%E5%8F%B7%E6%A5%BC)|公司地点在一个小区楼里，没有缴纳五险一金，单休，每周上班时间远远超过法定40和加班情况下44小时。我好奇问下转正4-8k，其中那8k是否虚标的，然后那法人就开始急了，贬低起毕业生。还没入职就已经看不起应届生。|BOSS直聘,亲身经历||
