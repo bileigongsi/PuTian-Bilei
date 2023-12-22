@@ -9,9 +9,10 @@ aside: false
 
 [[toc]]
 
-::: tip 该网址准备迁移至新网址（预计23年11月中旬）：
-由于 GitHub 托管网站访问速度太慢了，下个月我将租两年的阿里云服务，代理新域名，提升网页访问速度。 <br>
-不过该网址： https://bileigongsi.github.io  将积极更新。
+::: tip 公告：
+该网址已经迁移至新域名：https://bileigongsi.icu <br>
+由于 GitHub 托管网站访问速度太慢了，因此租了一年的新域名，提升网页访问速度。 <br>
+不过原来的网址： https://bileigongsi.github.io  也会积极更新。
 :::
 
 ## 莆田找工作防踩雷
