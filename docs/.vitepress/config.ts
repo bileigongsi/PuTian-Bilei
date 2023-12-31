@@ -16,8 +16,8 @@ const config = defineConfig({
 	base: '/putian-bilei/',
 	lang: 'zh-CN',
 	// 网站标题，左上角以及meta标题
-	title: '泉州避雷公司',
-	description: '泉州找工作防踩雷',
+	title: '莆田避雷公司',
+	description: '莆田找工作防踩雷',
 	cleanUrls: true,
 	// 是否忽略死链
 	ignoreDeadLinks: false,
