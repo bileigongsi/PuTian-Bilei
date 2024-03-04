@@ -12,7 +12,6 @@ lastUpdated: false
 ::: tip 公告：
 该网址已经迁移至新域名：https://bileigongsi.icu <br>
 由于 GitHub 托管网站访问速度太慢了，因此租了一年的新域名，提升网页访问速度。 <br>
-不过原来的网址： https://bileigongsi.github.io  也会积极更新。
 :::
 
 ## 莆田劳动人事争议仲裁委员会 <Badge type="tip">闽B</Badge>
